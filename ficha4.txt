@@ -1,0 +1,14 @@
+Requisitos para as funcionalidades:
+-registar um recibimento
+-registar um gasto
+-registar as datas das coisas(gasto e recibimento)
+-permitir a pesquisa de recibimentos por data
+-permitir a pesquisa de gastos por data
+-dividir por categorias os gastos
+-fazer uma lista dos gastos mais usados por mes
+-registar o total de gastos por mes
+-resgisto de numero de transacoes feitas por mes
+Classes:
+-transacao com o nosso sistema
+-conta
+
