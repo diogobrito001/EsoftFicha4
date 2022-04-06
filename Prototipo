@@ -1,0 +1,10 @@
+Janela Principal:
+Apresenta os dados do utilizador e o estado financeiro
+Ao clicar na opcao conta, apresenta a janela secundaria
+Ao clicar na opcao transacao, apresenta transferencias,despesas e compras
+Janela Secundaria:
+Apresenta duas opcoes num dropdown para definir o contexto, conta bancaria e conta poupanca.
+Apresenta botao transacoes
+Ao clicar no botao transacoes aparece para registar uma nova transacao
+Apresenta limite de gastos, dinheiro disponivel, media mensal de gastos e despesas definido por periodo e o total de transacoes
+
